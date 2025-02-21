@@ -64,7 +64,6 @@
 <br/>  
 
 ---
-![Profile views counter](https://komarev.com/ghpvc/?username=faizfadllan&&style=flat-square)  
   
 
 <br/>  
